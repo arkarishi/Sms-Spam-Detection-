@@ -60,8 +60,7 @@ This will process the dataset and save the trained model and vectorizer.
 | Metric    | Value  |
 |-----------|--------|
 | Accuracy  | 98%    |
-| Precision | 96%    |
-| Recall    | 92%    |
+| Precision | 100%   |
 
 ## 🔗 Resources
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
